@@ -37,7 +37,7 @@ This repository contains all of the resources for Intro to GitHub workshop, host
 ## Part 5: Make some changes!
 *Everyone on your team now has a local repository set up. This folder on your computer mirrors the content of the remote repository. By adding some content to your local repository, you will be able to send it to the remote repository.*
 
-- Everyone in your team: Add however much content you want to the four directories: *cat pictures*, *images of boston*, *rhymes*, and *misc*. There are some examples in each of them to get you started but feel free to add anything.
+- Everyone in your team: Add however much content you want to the three directories: *cat pictures*, *images of boston*, and *rhymes*. There are some examples in each of them to get you started but feel free to add anything.
 
 
 ## Part 6: Push your content to the remote repository
