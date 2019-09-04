@@ -1,6 +1,6 @@
 # GitHub Workshop
 
-This repository contains all of the resources for my Intro to GitHub workshop, hosted with BU’s Global App Initiative and Girls Who Code.
+This repository contains all of the resources for Intro to GitHub workshop, hosted with BU’s Global App Initiative and Girls Who Code.
 
 
 ## Part 1: Why Git and GitHub?
