@@ -12,7 +12,7 @@ This repository contains all of the resources for Intro to GitHub workshop, host
 *Talk to the people around you and do the next few parts together in teams of 3-4:*
 
 - Download and install Git [here](https://git-scm.com/)
-- Create a GitHub account
+- Create a GitHub account [here](https://github.com/join?source=header-home)
 
 
 ## Part 3: Fork and clone this repository
@@ -23,7 +23,7 @@ This repository contains all of the resources for Intro to GitHub workshop, host
  *This step will create a copy of the repository under your account, which only you have permission to edit for now. Part 4 will show how to grant edit permission to your teammates.*
 - Everyone in your team: Clone into the new repository by running the command:
 
-  `git clone https://github.com/<teammate’s username>/github-workshop`
+  `git clone https://github.com/<teammate’s username>/githubWorkshop`
 
   *This step creates a local copy of the repository on your computer, which has the same content as the online, called "remote", version does.*
 
@@ -37,7 +37,7 @@ This repository contains all of the resources for Intro to GitHub workshop, host
 ## Part 5: Make some changes!
 *Everyone on your team now has a local repository set up. This folder on your computer mirrors the content of the remote repository. By adding some content to your local repository, you will be able to send it to the remote repository.*
 
-- Everyone in your team: Add however much content you want to the four directories: *motivational_quotes*, *wallpaper*, *code*, and *batman*. There are some examples in each of them to get you started but feel free to add anything.
+- Everyone in your team: Add however much content you want to the four directories: *cat pictures*, *images of boston*, *rhymes*, and *misc*. There are some examples in each of them to get you started but feel free to add anything.
 
 
 ## Part 6: Push your content to the remote repository
@@ -81,4 +81,4 @@ If you'd like, feel free to repeat parts 5-7 and open more pull requests. Otherw
 
 Thanks for coming!
 
-Courtesy of Warren Partridge.
+(Courtesy of Warren Partridge)
